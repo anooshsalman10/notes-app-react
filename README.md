@@ -8,7 +8,7 @@ This project helped me strengthen my understanding of **React state management, 
 
 ### 📸 Screenshot
 
-![React Notes App Screenshot](./screenshot-notes-app.png)
+![React Notes App Screenshot](./screenshot/screenshot-notes-app.png)
 
 ---
 
